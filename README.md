@@ -1,5 +1,5 @@
 
-**Whack-a-goobers**
+**Whack-The-Goobers**
 
 **Made by: [@Dulla-han](https://github.com/Dulla-han), [@tobipbop](https://github.com/tobipbop)**
 

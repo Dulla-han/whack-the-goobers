@@ -1,7 +1,7 @@
 
 **Whack-a-goobers**
 
-**Tobias Lemeer, Jakub Zimmer**
+**Made by: @Dulla-han, @tobipbop**
 
 **Introduction**
 
@@ -24,12 +24,12 @@ _Start_ option – press the red button
 _Quit_ - press the green button
 
 
-![Obrázek2](uploads/2efb6d70c1be616d96befb59a9f4ebc8/Obrázek2.png) 
+![Obrázek2](images/title_screen.png) 
 
 _Starting screen_
 
 
-![Obrázek3](uploads/81099e030dfb1aee5e1c5a292394c6dd/Obrázek3.png)
+![Obrázek3](images/credits.png)
 
 _The Credits_
 
@@ -46,16 +46,16 @@ Middle hole mole - press the green button
 Right hole mole - press the blue button
 
 
-![bue_guy](uploads/13d37517e9fe8e0201c997af5708cafc/bue_guy.png)
+![bue_guy](images/blue_guy.png)
 
-![red_guy](uploads/6e6e252ae1b3b20d5cd25f4f56c4ae31/red_guy.png)
+![red_guy](images/red_guy.png)
 
-![green_guy](uploads/6297a18a8fb80639567ec7b350930158/green_guy.png)   
+![green_guy](images/green_guy.png)   
 
 _The in-game moles_
 
  
-![pow](uploads/b7b4589556fe26a764d39205b9f76af6/pow.png)
+![pow](images/pow.png)
 
 _The whack hit effect_
 
@@ -72,7 +72,7 @@ _Restart_  – press the red button
 _Quit_ - press the blue button
  
 
-![Obrázek4](uploads/cc1cc6d418eeb8d25775b54fe69f371b/Obrázek4.png)
+![Obrázek4](images/end_screen.png)
 
 _GameOver screen_
 

@@ -1,0 +1,6 @@
+*.o
+*Zone.Identifier
+change_me.c
+depend
+change_me
+connect.gdb

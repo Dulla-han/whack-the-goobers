@@ -1,7 +1,7 @@
 
 **Whack-a-goobers**
 
-**Made by: @Dulla-han, @tobipbop**
+**Made by: [@Dulla-han](https://github.com/Dulla-han), [@tobipbop](https://github.com/tobipbop)**
 
 **Introduction**
 
